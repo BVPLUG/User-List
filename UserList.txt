@@ -1,0 +1,18 @@
+This is the list of users of BVPLUG.
+Feel free to add youself to the list ( sorted alphabetically):
+
+Please observe the following notations while adding your name to the list :
+1. Find the location where your name must be added ( The List is sorted
+alphabetically )
+
+2. Type a line consisting of 20 underscores
+3. Type in your name ,then enrollment number ,and finally ,branch and year.
+
+That's it :) , Welcome to BVP-LUG !
+
+
+____________________
+Aman Madaan
+10411502709
+CSE 3rd Year
+____________________
